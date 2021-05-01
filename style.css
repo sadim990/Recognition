@@ -1,0 +1,15 @@
+.heading{
+    font-size: 35px;
+    font-family: 'Playfair Display', serif;
+}
+body{
+    background-image: linear-gradient(cyan, lime);
+}
+.name_of_objects{
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#camera , #result{
+    width: 350px;
+    height: 300;
+}
